@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://p77.tr0.n0.cdn.getcloudapp.com/items/YEudkvGX/logo.png?v=1b50ff985863355271dfdb289a2bef7f" width="128" height="128"/>
+  <img src="https://p77.tr0.n0.cdn.getcloudapp.com/items/YEudkvGX/logo.png?v=1b50ff985863355271dfdb289a2bef7f" width="150" height="150"/>
 </p>
 <h1 align="center">Framerlike for Xcode</h1>
 
