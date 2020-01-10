@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Framerlike for Xcode</h1>
 
-<img src="https://p77.tr0.n0.cdn.getcloudapp.com/items/YEudk09K/logo.png?v=76784aa30a4aa2856a72c6b85056c23f" />
+<img src="https://p77.tr0.n0.cdn.getcloudapp.com/items/2NurmZL5/framerlike.png?v=f813678731486b106c70f63758e31c66" />
 
 ## Preamble
 
